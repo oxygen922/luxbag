@@ -13,6 +13,13 @@ export default function HomePage() {
         <p>Discover · Decode · The newest designer handbags</p>
       </section>
 
+      <a href="https://kynbag.com" className="shop-cta" target="_blank" rel="noopener noreferrer">
+        <span className="shop-cta-text">
+          Looking for the best deals on luxury bags?
+          <strong> Shop KYNBAG.com &rarr;</strong>
+        </span>
+      </a>
+
       {feature.length > 0 && (
         <section id="feature">
           <h2 className="section-title">Magazine · FEATURE</h2>

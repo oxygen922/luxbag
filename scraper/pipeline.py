@@ -152,13 +152,24 @@ class Pipeline:
         for u in urls:
             if not u:
                 continue
-            # 幂等保护：已转存的本地/CDN 相对 URL 不再重复下载
-            if not u.startswith("http"):
+            # 幂等保护：已转存到 CDN 的 URL 不再重复上传
+            if u.startswith(self.cfg.r2_public_base) if self.cfg.r2_public_base else u.startswith("https://"):
                 url_map[u] = u
                 continue
             try:
-                raw = self._fetch_cached(u)
-                ext = "jpg"
+                if u.startswith("/images/"):
+                    # 本地模式遗留图片：从 public 目录读取后上传到 R2
+                    local_root = os.path.join(os.path.dirname(__file__), "..", "blog", "public")
+                    local_path = os.path.join(local_root, u.replace("/", os.sep).lstrip(os.sep))
+                    if not os.path.exists(local_path):
+                        url_map[u] = u
+                        continue
+                    with open(local_path, "rb") as lf:
+                        raw = lf.read()
+                    ext = os.path.splitext(u)[1].lstrip('.') or 'jpg'
+                else:
+                    raw = self._fetch_cached(u)
+                    ext = "jpg"
                 key = f"images/{data['entry_id']}/{_url_hash(u)}.{ext}"
                 cdn = self.storage.upload_image(key, raw, "image/jpeg")
                 url_map[u] = cdn

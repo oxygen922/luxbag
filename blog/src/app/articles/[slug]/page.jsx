@@ -52,6 +52,14 @@ export default function ArticlePage({ params }) {
 
       <Blocks blocks={a.blocks} />
 
+      <div className="article-cta">
+        <h3>Shop the Best Deals on Designer Bags</h3>
+        <p>Find authenticated luxury handbags at unbeatable prices.</p>
+        <a href="https://kynbag.com" target="_blank" rel="noopener noreferrer" className="article-cta-btn">
+          Visit KYNBAG.com &rarr;
+        </a>
+      </div>
+
       <div style={{ maxWidth: "var(--reading)", margin: "48px auto 0" }}>
         <Link href="/" className="back-link">
           ← Back to all stories
