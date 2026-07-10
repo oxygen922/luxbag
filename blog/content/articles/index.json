@@ -1,6 +1,18 @@
 {
   "articles": [
     {
+      "id": "ed3t0bs",
+      "slug": "ed3t0bs",
+      "title": "· New Bags · Louis Vuitton Debuts 2026 Fall/Winter Men's Bags: Silk Tech Fabric",
+      "date": "2026-07-09",
+      "cover": "https://cdn.kynbag.com/images/ed3t0bs/e01ef2277b8045fa.jpg",
+      "excerpt": "Louis Vuitton's 2026 men's bags debut water-resistant Silk Tech fabric, blending classic Monogram style with modern functionality.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "2lwm1fi",
       "slug": "2lwm1fi",
       "title": "· PRADA Red Bonnie Mini Bag ·",
@@ -11,6 +23,129 @@
         "PRADA"
       ],
       "source": "today"
+    },
+    {
+      "id": "r9prgzt",
+      "slug": "r9prgzt",
+      "title": "· IN-BAG | PRADA Launches Small Leather Goods and Phone Pouches for Summer 2026: Sailboats, Whales, Starfish ·",
+      "date": "2026-07-08",
+      "cover": "https://cdn.kynbag.com/images/r9prgzt/791a67b8ed9c1f3f.jpg",
+      "excerpt": "Prada's summer collection features playful leather goods with origami-like patchwork and beaded phone pouches with starfish and floral motifs.",
+      "tags": [
+        "PRADA"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "84m8dx5",
+      "slug": "84m8dx5",
+      "title": "· New Bag · BVLGARI’s Fall/Winter 2026 Collection: Inspired by Tubogas Craftsmanship",
+      "date": "2026-07-07",
+      "cover": "https://cdn.kynbag.com/images/84m8dx5/480ef526cb63aaa3.jpg",
+      "excerpt": "Bulgari's 2026 Fall/Winter collection debuts in August, featuring Tubogas-inspired handbags with sculptural jewelry handles.",
+      "tags": [
+        "BVLGARI"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "tp3b3g9",
+      "slug": "tp3b3g9",
+      "title": "· IN-BAG · Louis Vuitton Drops 'Sports' Capsule Collection: Miniature Athletic Scenes",
+      "date": "2026-07-06",
+      "cover": "https://cdn.kynbag.com/images/tp3b3g9/025f522186c6705f.jpg",
+      "excerpt": "Louis Vuitton's new sports-inspired capsule collection features realistic stadium and athlete prints on colorful Monogram canvas accessories.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "llhs5ye",
+      "slug": "llhs5ye",
+      "title": "· This Week's New Bags · LV Vanity Pouch Trunk, BALENCIAGA Metal Badge Le City Uptown",
+      "date": "2026-07-04",
+      "cover": "https://cdn.kynbag.com/images/llhs5ye/e2b5f1500a6cab0d.jpg",
+      "excerpt": "Louis Vuitton's new Vanity Pouch Trunk blends cosmetic pouch and trunk design in Monogram canvas.",
+      "tags": [
+        "LV",
+        "Balenciaga"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "ihwq3bw",
+      "slug": "ihwq3bw",
+      "title": "· New Bags · LOEWE's 2026 Fall/Winter Men's Collection: Featherweight Puzzle & Switch Tote",
+      "date": "2026-07-03",
+      "cover": "https://cdn.kynbag.com/images/ihwq3bw/ba86c70a1217b157.jpg",
+      "excerpt": "LOEWE's 2026 Fall Men's collection showcases the Puzzle bag in new materials, plus suede Amazona 180 and Loop Hobo bags.",
+      "tags": [
+        "LOEWE"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "ad08pbr",
+      "slug": "ad08pbr",
+      "title": "· In View · Louis Vuitton Releases New Edition of REBONDS Photobook: A Shared Vision for Protecting Children",
+      "date": "2026-07-02",
+      "cover": "https://cdn.kynbag.com/images/ad08pbr/1106216abb4b1b1a.jpg",
+      "excerpt": "Louis Vuitton marks its 10-year UNICEF partnership with a new football-themed *REBONDS* photobook featuring 100 creatives.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "eksnemq",
+      "slug": "eksnemq",
+      "title": "· New Bag | CELINE Presents 2027 Spring/Summer Men’s Show: Tough Yet Tender ·",
+      "date": "2026-07-01",
+      "cover": "https://cdn.kynbag.com/images/eksnemq/e4e6199792db2815.jpg",
+      "excerpt": "CELINE’s Spring/Summer 2027 men’s show blends Victorian and preppy styles with slouchy bags, celebrating fashion’s fluidity and free-form styling.",
+      "tags": [
+        "CELINE"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "vvd7nqc",
+      "slug": "vvd7nqc",
+      "title": "· New Bags · Hermès Spring-Summer 2027 Men's Collection: Light Summer",
+      "date": "2026-06-30",
+      "cover": "https://cdn.kynbag.com/images/vvd7nqc/cd44ff118986c975.jpg",
+      "excerpt": "Hermès 2027 men's collection, inspired by South France landscapes, features light fabrics and neutral tones for effortless summer style.",
+      "tags": [
+        "HERMÈS"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "nu3xjyj",
+      "slug": "nu3xjyj",
+      "title": "· New Bags · Dior Unveils New Book Tote Collection: A Tribute to Classic Literature",
+      "date": "2026-06-29",
+      "cover": "https://cdn.kynbag.com/images/nu3xjyj/dea100daf78bbb2b.jpg",
+      "excerpt": "Dior's new Book Tote collection features embroidered covers of four classic novels, blending literary tribute with playful elegance.",
+      "tags": [
+        "Dior"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "4b5p3dj",
+      "slug": "4b5p3dj",
+      "title": "· New Bags This Week | LV Nano Frivole, BALENCIAGA Vegetable-Tanned Lamb Bolero Bowling Bag, LOEWE Mimosa Flamenco ·",
+      "date": "2026-06-27",
+      "cover": "https://cdn.kynbag.com/images/4b5p3dj/75a3e0f9f57b3103.jpg",
+      "excerpt": "Louis Vuitton's Nano Frivole reimagines the classic Noé bucket bag as a compact, elegant east-west silhouette for daily essentials.",
+      "tags": [
+        "LV",
+        "LOEWE",
+        "Balenciaga"
+      ],
+      "source": "feature"
     },
     {
       "id": "wi7bb4g",
@@ -33,6 +168,124 @@
       "excerpt": "Hermès launches the Kelly Hobo bag for SS26, inspired by the 2008 So-Kelly, featuring a sleek calfskin bucket silhouette with adjustable shoulder straps.",
       "tags": [
         "HERMÈS"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "fvvvko0",
+      "slug": "fvvvko0",
+      "title": "· CELINE Silk Scarf Teen Triomphe Bag ·",
+      "date": "2026-04-21",
+      "cover": "https://cdn.kynbag.com/images/fvvvko0/a92f05043d9845a8.jpg",
+      "excerpt": "CELINE's Summer 2026 Teen Triomphe handbag blends mulberry silk with leather, weaving iconic brand symbols into a romantic, elegant design.",
+      "tags": [
+        "CELINE"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "w4rdu64",
+      "slug": "w4rdu64",
+      "title": "· Louis Vuitton Alma Trunk BB Bag ·",
+      "date": "2026-03-21",
+      "cover": "https://cdn.kynbag.com/images/w4rdu64/9d50a8c5a0e0eec8.jpg",
+      "excerpt": "Louis Vuitton's 2026 Alma Trunk bag blends arch shape with trunk corners, featuring a romantic golden Millefleurs motif.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "i37ehjg",
+      "slug": "i37ehjg",
+      "title": "· Balenciaga Le City Faded Denim ·",
+      "date": "2026-02-15",
+      "cover": "https://cdn.kynbag.com/images/i37ehjg/de610f85c47aee5f.jpg",
+      "excerpt": "Balenciaga's 2026 Chinese New Year bag reimagines the classic motorcycle design in washed denim with faded logos.",
+      "tags": [
+        "Balenciaga"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "5oohtnt",
+      "slug": "5oohtnt",
+      "title": "· TOP 10 | KYNBAG 2025 Bag Awards: Handbag Designs That Define the Era ·",
+      "date": "2026-02-14",
+      "cover": "https://cdn.kynbag.com/images/5oohtnt/e3c2463f1b15523d.jpg",
+      "excerpt": "The 2025 KYNBAG Awards spotlight 10 iconic handbags, celebrating design, creativity, craftsmanship, and cultural relevance.",
+      "tags": [],
+      "source": "feature"
+    },
+    {
+      "id": "8liunqx",
+      "slug": "8liunqx",
+      "title": "· CELINE New Luggage Small Handbag ·",
+      "date": "2026-02-03",
+      "cover": "https://cdn.kynbag.com/images/8liunqx/4d3d54ab61593a18.jpg",
+      "excerpt": "CELINE reimagines its 2010 Phantom Luggage as a compact horizontal handbag in soft lambskin leather for Spring 2026.",
+      "tags": [
+        "CELINE"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "cqy0o60",
+      "slug": "cqy0o60",
+      "title": "· FENDI Butterfly Sequin Baguette ·",
+      "date": "2026-01-09",
+      "cover": "https://cdn.kynbag.com/images/cqy0o60/db0028fd2bcdd220.jpg",
+      "excerpt": "Fendi's Pre-Spring 2025 Baguette bag features shimmering sequin embroidery inspired by butterfly wing patterns.",
+      "tags": [
+        "FENDI"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "1t2fr6g",
+      "slug": "1t2fr6g",
+      "title": "· Louis Vuitton Speedy Trunk 25 ·",
+      "date": "2025-12-31",
+      "cover": "https://cdn.kynbag.com/images/1t2fr6g/4c2adff8e8f53510.jpg",
+      "excerpt": "Louis Vuitton's Speedy Trunk 25 blends a Boston bag silhouette with trunk-inspired metal corners and elegant arched handles.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "cm2jzqe",
+      "slug": "cm2jzqe",
+      "title": "· MIU MIU Cognac Arcadie Bowling Bag ·",
+      "date": "2025-12-12",
+      "cover": "https://cdn.kynbag.com/images/cm2jzqe/cf268f2726bb7521.jpg",
+      "excerpt": "Miu Miu's Fall 2025 Arcadie bowling bag offers a compact, distressed cognac calfskin design with nostalgic logo appliqués and a gold padlock.",
+      "tags": [
+        "Miu Miu"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "14o7xee",
+      "slug": "14o7xee",
+      "title": "· PRADA Noir Mini Bucket Bag ·",
+      "date": "2025-12-04",
+      "cover": "https://cdn.kynbag.com/images/14o7xee/848cf9af533b1c6c.jpg",
+      "excerpt": "Prada's Fall/Winter 2025 mini bucket bag debuts in recycled nylon with curved leather handles and playful metal accents.",
+      "tags": [
+        "PRADA"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "gori340",
+      "slug": "gori340",
+      "title": "· Balenciaga Le City Moto Bottle Cap Charm Bag ·",
+      "date": "2025-11-24",
+      "cover": "https://cdn.kynbag.com/images/gori340/3a744aedbebde8c7.jpg",
+      "excerpt": "Balenciaga's Winter 25 Le City Moto bag reimagines the classic with a slim shape, detachable straps, and playful bottle-cap charms.",
+      "tags": [
+        "Balenciaga"
       ],
       "source": "today"
     }
