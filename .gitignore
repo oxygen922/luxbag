@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Secrets（含 API key，绝不提交）
+.env
+scraper/.env
+
+# SQLite 临时文件（state.db 本身需提交以持久化 CI 去重状态）
+scraper/state.db-journal
+scraper/state.db-wal
+scraper/state.db-shm
+
+# 下载的原始图片缓存（CI 每次重建）
+scraper/cache/
+
+# Node / Next.js
+blog/node_modules/
+blog/.next/
+blog/out/
+blog/.env*
+!blog/.env.example
+
+# OS
+.DS_Store
+Thumbs.db

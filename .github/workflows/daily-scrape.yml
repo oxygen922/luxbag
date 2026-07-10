@@ -1,0 +1,83 @@
+name: Daily Scrape & Rewrite
+
+on:
+  schedule:
+    # UTC 01:00 = Beijing 09:00，每天采集一次
+    - cron: '0 1 * * *'
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max articles to process this run'
+        required: false
+        default: '5'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-scrape
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install Python dependencies
+        working-directory: scraper
+        run: pip install -r requirements.txt
+
+      - name: Run scraper pipeline
+        working-directory: scraper
+        env:
+          SOURCES: today,feature
+          MAX_PAGES: '1'
+          BLOG_BASE_URL: https://kynbag.blog
+          # DeepSeek（必填 Secret）
+          DEEPSEEK_ENABLED: 'true'
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: deepseek-chat
+          REWRITE: 'true'
+          # Cloudflare R2（可选 — 配置后图片走 CDN，不配置则提交到仓库）
+          R2_ENABLED: ${{ secrets.R2_ENABLED || 'false' }}
+          R2_ENDPOINT: ${{ secrets.R2_ENDPOINT }}
+          R2_ACCESS_KEY_ID: ${{ secrets.R2_ACCESS_KEY_ID }}
+          R2_SECRET_ACCESS_KEY: ${{ secrets.R2_SECRET_ACCESS_KEY }}
+          R2_BUCKET: ${{ secrets.R2_BUCKET }}
+          R2_PUBLIC_BASE: ${{ secrets.R2_PUBLIC_BASE }}
+          # Pinterest（可选 — 配置后自动发 Pin）
+          PINTEREST_ENABLED: ${{ secrets.PINTEREST_ENABLED || 'false' }}
+          PINTEREST_APP_ID: ${{ secrets.PINTEREST_APP_ID }}
+          PINTEREST_APP_SECRET: ${{ secrets.PINTEREST_APP_SECRET }}
+          PINTEREST_ACCESS_TOKEN: ${{ secrets.PINTEREST_ACCESS_TOKEN }}
+          PINTEREST_REFRESH_TOKEN: ${{ secrets.PINTEREST_REFRESH_TOKEN }}
+          PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
+          PUBLISH_PINTEREST: ${{ secrets.PINTEREST_ENABLED || 'false' }}
+        run: |
+          LIMIT="${{ github.event.inputs.limit || '5' }}"
+          python main.py discover
+          python main.py fetch --limit "$LIMIT"
+          python main.py transfer --limit "$LIMIT"
+          python main.py rewrite --limit "$LIMIT"
+          python main.py publish --limit "$LIMIT"
+          python main.py index
+
+      - name: Commit new content
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          # 提交文章 JSON + 去重状态（图片仅在未启用 R2 时存在）
+          git add blog/content/articles/ scraper/state.db
+          git add blog/public/images/ 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No new content today."
+          else
+            git commit -m "content: daily scrape $(date -u +%Y-%m-%d)"
+            git push
+          fi

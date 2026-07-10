@@ -1,0 +1,40 @@
+{
+  "articles": [
+    {
+      "id": "2lwm1fi",
+      "slug": "2lwm1fi",
+      "title": "· PRADA Red Bonnie Mini Bag ·",
+      "date": "2026-07-08",
+      "cover": "/images/2lwm1fi/1a9e2744ac71e03a.jpg",
+      "excerpt": "Prada's Bonnie mini bag blends a compact arched silhouette with glossy waxed leather and iconic belt-inspired hardware.",
+      "tags": [
+        "PRADA"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "wi7bb4g",
+      "slug": "wi7bb4g",
+      "title": "· Miu Miu Wander Small Crescent Bag ·",
+      "date": "2026-06-10",
+      "cover": "/images/wi7bb4g/0d429c82f7e0832a.jpg",
+      "excerpt": "Miu Miu's Wander handbag is a playful yet elegant crescent-shaped quilted leather piece from Spring/Summer 2022.",
+      "tags": [
+        "Miu Miu"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "w14b80b",
+      "slug": "w14b80b",
+      "title": "· HERMÈS Kelly Hobo Mini Bucket Bag ·",
+      "date": "2026-05-16",
+      "cover": "/images/w14b80b/07444344bc2b876f.jpg",
+      "excerpt": "Hermès launches the Kelly Hobo bag for SS26, inspired by the 2008 So-Kelly, featuring a sleek calfskin bucket silhouette with adjustable shoulder straps.",
+      "tags": [
+        "HERMÈS"
+      ],
+      "source": "today"
+    }
+  ]
+}
