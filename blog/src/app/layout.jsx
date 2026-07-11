@@ -28,6 +28,7 @@ export default function RootLayout({ children }) {
               <a href="/">Stories</a>
               <a href="/#today">Daily Edit</a>
               <a href="/#feature">Magazine</a>
+              <a href="https://kynbag.com" className="nav-shop" target="_blank" rel="noopener noreferrer">Shop &rarr;</a>
             </nav>
           </div>
         </header>

@@ -20,22 +20,22 @@ export default function HomePage() {
         </span>
       </a>
 
-      {feature.length > 0 && (
-        <section id="feature">
-          <h2 className="section-title">Magazine · FEATURE</h2>
+      {today.length > 0 && (
+        <section id="today">
+          <h2 className="section-title">Daily Edit · TODAY</h2>
           <div className="grid">
-            {feature.map((a) => (
+            {today.map((a) => (
               <Card key={a.slug} a={a} />
             ))}
           </div>
         </section>
       )}
 
-      {today.length > 0 && (
-        <section id="today">
-          <h2 className="section-title">Daily Edit · TODAY</h2>
+      {feature.length > 0 && (
+        <section id="feature">
+          <h2 className="section-title">Magazine · FEATURE</h2>
           <div className="grid">
-            {today.map((a) => (
+            {feature.map((a) => (
               <Card key={a.slug} a={a} />
             ))}
           </div>
