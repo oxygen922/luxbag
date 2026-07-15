@@ -9,6 +9,7 @@ env/
 # Secrets（含 API key，绝不提交）
 .env
 scraper/.env
+scraper/sa_credentials.json
 
 # SQLite 临时文件（state.db 本身需提交以持久化 CI 去重状态）
 scraper/state.db-journal

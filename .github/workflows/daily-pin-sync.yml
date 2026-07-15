@@ -1,0 +1,61 @@
+name: Pinterest Pin Sync (Every 3 Days)
+
+on:
+  schedule:
+    # 每3天 UTC 03:00 (北京时间 11:00) 运行一次
+    - cron: '0 3 */3 * *'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Dry run (sync sheets only, no publishing)'
+        required: false
+        type: boolean
+        default: false
+
+permissions:
+  contents: read
+
+concurrency:
+  group: daily-pin-sync
+  cancel-in-progress: false
+
+jobs:
+  pin-sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          pip install requests gspread google-auth
+
+      - name: Write Service Account credentials
+        env:
+          GOOGLE_SA_JSON: ${{ secrets.GOOGLE_SA_JSON }}
+        run: |
+          echo "$GOOGLE_SA_JSON" > luxbag/scraper/sa_credentials.json
+
+      - name: Sync articles & publish pins
+        working-directory: luxbag/scraper
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          DEEPSEEK_MODEL: deepseek-chat
+          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
+          GOOGLE_SA_FILE: sa_credentials.json
+          PINTEREST_SESS: ${{ secrets.PINTEREST_SESS }}
+          PINTEREST_PROXY: ${{ secrets.PINTEREST_PROXY }}
+          PINTEREST_BOARD_ID: ${{ secrets.PINTEREST_BOARD_ID }}
+          PINTEREST_BOARD_ID_2: ${{ secrets.PINTEREST_BOARD_ID_2 }}
+          BLOG_BASE_URL: https://kynbag.com
+          MAX_PINS_PER_RUN: '10'
+        run: |
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            python sync_pins.py --dry-run
+          else
+            python sync_pins.py
+          fi
