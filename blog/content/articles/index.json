@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "b4k5qpe",
+      "slug": "b4k5qpe",
+      "title": "· New Bag | CHANEL Unveils Fall/Winter 2026 Haute Couture: Gabrielle and the Magic Bean ·",
+      "date": "2026-07-15",
+      "cover": "https://cdn.kynbag.com/images/b4k5qpe/9c11bddc29645110.jpg",
+      "excerpt": "Chanel's Fall/Winter 2026 show blends fairy tale motifs with classic silhouettes, balancing everyday wearability and couture dreaminess.",
+      "tags": [
+        "CHANEL"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "951bn9l",
+      "slug": "951bn9l",
+      "title": "· New Arrivals · LOEWE Drops Striped Canvas Bags: Embroidered Contrast Stripes",
+      "date": "2026-07-14",
+      "cover": "https://cdn.kynbag.com/images/951bn9l/d7de855b823548b9.jpg",
+      "excerpt": "LOEWE's 2026 Pre-Fall Stripes collection features multicolored embroidered diagonal stripes on natural linen canvas bags.",
+      "tags": [
+        "LOEWE"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "5o6leaa",
       "slug": "5o6leaa",
       "title": "· New Bags This Week · BALENCIAGA Le City Sleek Box, PRADA Corsaire Saddle, FENDI Pearl Grey Crocodile Peekaboo, YSL Gaby Bucket, MIU MIU Raffia Woven Tote",
