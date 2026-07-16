@@ -140,7 +140,7 @@ def load_articles() -> list[dict]:
             "title": data.get("title", "").strip("· ").strip(),
             "excerpt": data.get("excerpt", ""),
             "tags": data.get("tags", []),
-            "url": f"{BLOG_BASE_URL}/articles/{slug}",
+            "url": BLOG_BASE_URL,
             "images": images,
         })
     return articles
