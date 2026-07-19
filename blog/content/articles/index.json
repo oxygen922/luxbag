@@ -1,12 +1,27 @@
 {
   "articles": [
     {
+      "id": "st50x05",
+      "slug": "st50x05",
+      "title": "· New Bags This Week ·",
+      "date": "2026-07-18",
+      "cover": "https://cdn.kynbag.com/images/st50x05/059abb2aff9dda14.jpg",
+      "excerpt": "Balenciaga's Fall 26 Rodeo mini bag features black calfskin with embroidered lambskin flowers, creating a dark, romantic 3D effect.",
+      "tags": [
+        "LV",
+        "PRADA",
+        "Miu Miu",
+        "Balenciaga"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "hi6oc96",
       "slug": "hi6oc96",
-      "title": "IN-BAG | Louis Vuitton 上市夏日系列包包挂饰：甜筒、鸡尾酒、热气球",
+      "title": "· IN-BAG | Louis Vuitton Unveils Summer Bag Charms: Ice Cream Cones, Cocktails, Hot Air Balloons ·",
       "date": "2026-07-17",
       "cover": "https://cdn.kynbag.com/images/hi6oc96/cf8ba262b578c795.jpg",
-      "excerpt": "",
+      "excerpt": "Louis Vuitton's Summer 2026 bag charms feature playful shapes like ice cream cones and cocktails, perfect for summer getaways.",
       "tags": [
         "Louis Vuitton"
       ],
@@ -15,10 +30,10 @@
     {
       "id": "m9ivtz6",
       "slug": "m9ivtz6",
-      "title": "新包 | Balenciaga 上架 Le City 系列新包型：双肩包，水桶包",
+      "title": "· New Bags · Balenciaga Drops New Le City Silhouettes: Backpack & Bucket Bag",
       "date": "2026-07-16",
       "cover": "https://cdn.kynbag.com/images/m9ivtz6/a07e00f5431de53b.jpg",
-      "excerpt": "",
+      "excerpt": "Balenciaga adds a backpack and bucket bag to its Le City line, blending edgy moto details with playful, compact silhouettes.",
       "tags": [
         "Balenciaga"
       ],
