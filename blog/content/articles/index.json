@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "kxpizov",
+      "slug": "kxpizov",
+      "title": "· New Bags · Louis Vuitton Unveils Men's Monogram Eclipse Collection with Khaki Green Leather Trim",
+      "date": "2026-07-21",
+      "cover": "https://cdn.kynbag.com/images/kxpizov/f7c46491f08bfc53.jpg",
+      "excerpt": "Louis Vuitton's new Monogram Eclipse men's bags blend black-gray canvas with khaki leather for a rugged military look.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "dww0ola",
+      "slug": "dww0ola",
+      "title": "· New Bag · Miu Miu Drops New Spirit Bag: Crochet Meets Supple Suede",
+      "date": "2026-07-20",
+      "cover": "https://cdn.kynbag.com/images/dww0ola/58980b0c932e4956.jpg",
+      "excerpt": "Miu Miu's new Spirit handbag offers a sleek hobo silhouette in suede, lambskin, or striped crochet for summer.",
+      "tags": [
+        "Miu Miu"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "st50x05",
       "slug": "st50x05",
       "title": "· New Bags This Week ·",
