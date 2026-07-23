@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "s4z95ym",
+      "slug": "s4z95ym",
+      "title": "· IN-BAG | LOEWE Drops 2026 Fall/Winter Bag Charms: Playful Fruit Motifs ·",
+      "date": "2026-07-23",
+      "cover": "https://cdn.kynbag.com/images/s4z95ym/d6c09f245af4bbfd.jpg",
+      "excerpt": "LOEWE's Fall/Winter 2026 bag charms feature whimsical everyday objects like apple cores and traffic cones in vibrant detail.",
+      "tags": [
+        "LOEWE"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "k5qvb2c",
+      "slug": "k5qvb2c",
+      "title": "· New Bags | Hermès Fall/Winter 2026 Preview: Boundless Horizons ·",
+      "date": "2026-07-22",
+      "cover": "https://cdn.kynbag.com/images/k5qvb2c/ec7716d097aad443.jpg",
+      "excerpt": "Hermès previews its Fall/Winter 2026 collection in Shanghai, blending equestrian and nautical themes to find wonder in everyday life.",
+      "tags": [
+        "HERMÈS"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "kxpizov",
       "slug": "kxpizov",
       "title": "· New Bags · Louis Vuitton Unveils Men's Monogram Eclipse Collection with Khaki Green Leather Trim",
