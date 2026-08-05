@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "garggts",
+      "slug": "garggts",
+      "title": "· IN-BAG | FENDI Drops 2026 Qixi Capsule Accessories: The Heatbeat Heart Motif ·",
+      "date": "2026-08-05",
+      "cover": "https://cdn.kynbag.com/images/garggts/e1b8e2c1da42e3ed.jpg",
+      "excerpt": "FENDI's Qixi capsule collection blends Roman-inspired horn and heart jewelry with rose-petal gradient silk scarves for romantic gifting.",
+      "tags": [
+        "FENDI"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "yuiegwz",
+      "slug": "yuiegwz",
+      "title": "· IN-BAG | CELINE Unveils Fall/Winter 2026 Silk Scarves: The Endless Possibilities of a Scarf ·",
+      "date": "2026-08-04",
+      "cover": "https://cdn.kynbag.com/images/yuiegwz/8ce307d18a4dfa51.jpg",
+      "excerpt": "CELINE's new creative director Michael Rider transforms scarves into artistic canvases, blending iconic house symbols with whimsical celestial and equestrian illustrations.",
+      "tags": [
+        "CELINE"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "m55tmnk",
       "slug": "m55tmnk",
       "title": "· New Bags | Bottega Veneta Unveils 2026 Qixi Capsule Collection: Andiamo Mini and Giorno Flap Bag ·",
