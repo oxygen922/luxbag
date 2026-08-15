@@ -1,6 +1,44 @@
 {
   "articles": [
     {
+      "id": "mns1mk1",
+      "slug": "mns1mk1",
+      "title": "· This Week's New Bags | LV Time Clock Bag & Marelle Bag, CELINE Qixi Limited Mini Bucket Bag, PRADA Olive Green Crocodile Bonnie Bag ·",
+      "date": "2026-08-15",
+      "cover": "https://cdn.kynbag.com/images/mns1mk1/62c1f7e0e2132d7a.jpg",
+      "excerpt": "Louis Vuitton's playful LV Time Bag blends Monogram canvas with a clock face, nodding to its fall-winter 2026 men's theme.",
+      "tags": [
+        "LV",
+        "CELINE",
+        "PRADA"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "w2mm6yo",
+      "slug": "w2mm6yo",
+      "title": "· FENDI Beaded Baguette® 26424 ·",
+      "date": "2026-08-15",
+      "cover": "https://cdn.kynbag.com/images/w2mm6yo/99a26ecc28a5e7e1.jpg",
+      "excerpt": "FENDI's 1997 Baguette reissue features 51,400 colorful beads, exotic embroidery, and lizard-skin trim, embodying early 2000s maximalist luxury craftsmanship.",
+      "tags": [
+        "FENDI"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "3e9h4jc",
+      "slug": "3e9h4jc",
+      "title": "· New Bags | PRADA Unveils 2026 Fall/Winter Carry Tote & Buckle Mini Bag ·",
+      "date": "2026-08-14",
+      "cover": "https://cdn.kynbag.com/images/3e9h4jc/7b416ffe9950c774.jpg",
+      "excerpt": "Prada's Fall/Winter 2026 debuts a new small Buckle bag and refined Carry tote, blending playful elegance with casual sophistication.",
+      "tags": [
+        "PRADA"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "0rn4gwm",
       "slug": "0rn4gwm",
       "title": "· New Bags | FENDI Unveils Fall/Winter 2026 Collection: Cracked Black Leather with Animal Prints ·",
