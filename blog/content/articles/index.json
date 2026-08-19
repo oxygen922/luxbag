@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "gpisygk",
+      "slug": "gpisygk",
+      "title": "· New Bags | Louis Vuitton Unveils High Summer Collection: Striped Canvas, Pastel Leather ·",
+      "date": "2026-08-19",
+      "cover": "https://cdn.kynbag.com/images/gpisygk/5cbea12d040fe72e.jpg",
+      "excerpt": "Louis Vuitton's High Summer capsule features pastel handbags in lightweight materials, inspired by Côte d'Azur seaside living.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "97509mt",
+      "slug": "97509mt",
+      "title": "· New Arrivals | CELINE Debuts the New Season Triomphe Canvas Bags: Iconic Monogram, Practical Silhouettes ·",
+      "date": "2026-08-18",
+      "cover": "https://cdn.kynbag.com/images/97509mt/55be96a29ec98c2d.jpg",
+      "excerpt": "CELINE debuts new Triomphe Canvas bags with fresh silhouettes, blending iconic monogram with practical, timeless scholarly style.",
+      "tags": [
+        "CELINE"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "mw2kjrt",
       "slug": "mw2kjrt",
       "title": "· IN-BAG | Hermès Unveils Arctic-Inspired Lipsticks for Fall/Winter 2026 ·",
