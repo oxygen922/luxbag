@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "p0invsb",
+      "slug": "p0invsb",
+      "title": "· New Arrivals · Saint Laurent Unveils Fall 2026 Bags: Niki Soft and Sac De Jour Boston Bag",
+      "date": "2026-08-27",
+      "cover": "https://cdn.kynbag.com/images/p0invsb/0ac08a429db91271.jpg",
+      "excerpt": "Saint Laurent's Fall 2026 line adds the soft lambskin Niki bag and a padlocked Sac De Jour Boston bag.",
+      "tags": [
+        "SAINT LAURENT"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "sxb1gzl",
+      "slug": "sxb1gzl",
+      "title": "· IN-BAG | Balenciaga's New Bag Charms: Ladybugs, Raspberries, Oranges, and Micro Bags ·",
+      "date": "2026-08-26",
+      "cover": "https://cdn.kynbag.com/images/sxb1gzl/84b1a46f7280fccc.jpg",
+      "excerpt": "Balenciaga launches playful Le City bag charms in fruit and insect motifs, plus miniature versions of iconic bags, adding vibrant fun.",
+      "tags": [
+        "Balenciaga"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "wb5x04v",
+      "slug": "wb5x04v",
+      "title": "· 视野 | Hermès 揭幕上海爱马仕之家2026秋季橱窗：回望与远行 ·",
+      "date": "2026-08-26",
+      "cover": "https://cdn.kynbag.com/images/wb5x04v/542f6cc34e3d4c5e.jpg",
+      "excerpt": "Hermès Shanghai's fall windows, co-created with Filipino artists, use cardboard miniature houses to explore migration, time, and travel.",
+      "tags": [
+        "HERMÈS"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "wy42y3t",
       "slug": "wy42y3t",
       "title": "· New Arrival | CELINE Unveils the Hot Dog Bag: A Frankfurter Silhouette with a Twisted Metal Lock ·",
