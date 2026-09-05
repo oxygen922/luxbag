@@ -1,12 +1,50 @@
 {
   "articles": [
     {
+      "id": "v60jadg",
+      "slug": "v60jadg",
+      "title": "· 一周新包 | LV Papillon 45 白色山羊毛皮旅行包，Miu Miu 白色绗缝皮革双肩包，CELINE 蟒蛇皮 Halfmoon 半月包 ·",
+      "date": "2026-09-05",
+      "cover": "https://cdn.kynbag.com/images/v60jadg/caa4fde50e38dd7c.jpg",
+      "excerpt": "Louis Vuitton's Papillon 45 travel bag now features fluffy white shearling, beige calfskin patches, and adjustable handles for winter getaways.",
+      "tags": [
+        "LV",
+        "CELINE",
+        "Miu Miu"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "3mcoruo",
+      "slug": "3mcoruo",
+      "title": "· New Bags | FENDI Unveils Chapter Two of Fall/Winter 2026: The My Peekaboo Bag ·",
+      "date": "2026-09-04",
+      "cover": "https://cdn.kynbag.com/images/3mcoruo/4364d7fd91dbed20.jpg",
+      "excerpt": "FENDI's FW26 collection updates Peekaboo and Baguette styles with new materials, plus debuts the gender-neutral FENDI Flow messenger bag.",
+      "tags": [
+        "FENDI"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "ufweext",
+      "slug": "ufweext",
+      "title": "· Vantage | BVLGARI Kaleidos Exhibition ·",
+      "date": "2026-09-04",
+      "cover": "https://cdn.kynbag.com/images/ufweext/315b036ddcd134b7.jpg",
+      "excerpt": "BVLGARI's Shanghai exhibition showcases 300 jewel-toned creations and Chinese art, celebrating color and craftsmanship from September to October 2026.",
+      "tags": [
+        "BVLGARI"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "98wv68s",
       "slug": "98wv68s",
-      "title": "IN-BAG | PRADA 上市新款服饰珠宝：水晶花卉，编织小鸟",
+      "title": "· IN-BAG | PRADA's New Costume Jewelry: Crystal Florals & Woven Birds ·",
       "date": "2026-09-03",
       "cover": "https://cdn.kynbag.com/images/98wv68s/c9212db028e07c75.jpg",
-      "excerpt": "",
+      "excerpt": "Prada's new costume jewelry line blends nature-inspired crystals and raffia birds with its iconic triangular logo for vibrant appeal.",
       "tags": [
         "PRADA"
       ],
