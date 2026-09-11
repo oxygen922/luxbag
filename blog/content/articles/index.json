@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "mlluw13",
+      "slug": "mlluw13",
+      "title": "· In Focus | Cartier Hosts \"Into the Wild\" Pop-Up Experience in Shanghai ·",
+      "date": "2026-09-11",
+      "cover": "https://cdn.kynbag.com/images/mlluw13/0d1bfe04f11b39fa.jpg",
+      "excerpt": "Cartier will host an immersive \"Into the Wild\" experience in Shanghai from September 17-27, 2026, showcasing its animal-inspired jewelry craftsmanship.",
+      "tags": [],
+      "source": "feature"
+    },
+    {
+      "id": "g4deskr",
+      "slug": "g4deskr",
+      "title": "· New Bags | Louis Vuitton Debuts the 2026 'Back to School' Handbag Collection: A Return to Campus ·",
+      "date": "2026-09-10",
+      "cover": "https://cdn.kynbag.com/images/g4deskr/0c295ae1c5292da7.jpg",
+      "excerpt": "Louis Vuitton's 2026 Back to School collection features soft suede bags in mocha, chocolate, and latte browns, evoking a collegiate vintage style.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "gbja6nh",
       "slug": "gbja6nh",
       "title": "· New Bags | CELINE Unveils Winter 2026 Collection: Le 17 Accordion Bag & Halfmoon Bag ·",
