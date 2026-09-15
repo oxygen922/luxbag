@@ -1,6 +1,54 @@
 {
   "articles": [
     {
+      "id": "nws935b",
+      "slug": "nws935b",
+      "title": "· New Bags · LOEWE Debuts Fall/Winter 2026 Collection: A Collaboration with German Artist Cosima von Bonin ·",
+      "date": "2026-09-15",
+      "cover": "https://cdn.kynbag.com/images/nws935b/174c4a7c59bf30cc.jpg",
+      "excerpt": "Loewe's Fall/Winter 2026 collection, designed with artist Cosima von Bonin, features playful animal motifs and checks on bags and accessories.",
+      "tags": [
+        "LOEWE"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "s6rwubb",
+      "slug": "s6rwubb",
+      "title": "· In Focus | Henry Jacques Unveils New Shanghai-Exclusive Fragrance: L’Île de HJ ·",
+      "date": "2026-09-15",
+      "cover": "https://cdn.kynbag.com/images/s6rwubb/c57913fac34d8c58.jpg",
+      "excerpt": "French perfumer Henry Jacques opens a Shanghai pop-up from August 2026 to January 2027, launching an exclusive local scent.",
+      "tags": [],
+      "source": "feature"
+    },
+    {
+      "id": "6nw97hu",
+      "slug": "6nw97hu",
+      "title": "· HERMÈS Jeweled-Chain Bolide 1923 Mini Bag ·",
+      "date": "2026-09-14",
+      "cover": "https://cdn.kynbag.com/images/6nw97hu/3c151b9cee37d1de.jpg",
+      "excerpt": "Hermès unveils the Bolide 1923 Mini for Fall/Winter 2026, featuring a silver and gold jewelry chain on black calfskin.",
+      "tags": [
+        "HERMÈS"
+      ],
+      "source": "today"
+    },
+    {
+      "id": "xaq2yki",
+      "slug": "xaq2yki",
+      "title": "· This Week's New Bags | BALENCIAGA Hourglass Avenue & Le City Chain Clutch, FENDI Colorful Shearling Baguette® 26424, LV Nano Neverfull & Alma Mini Bags ·",
+      "date": "2026-09-14",
+      "cover": "https://cdn.kynbag.com/images/xaq2yki/80e63acc6d66346f.jpg",
+      "excerpt": "Balenciaga debuts the Hourglass Avenue bag, blending its signature silhouette with doctor's bag styling and couture heritage.",
+      "tags": [
+        "LV",
+        "FENDI",
+        "Balenciaga"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "8tf3jxr",
       "slug": "8tf3jxr",
       "title": "· New Arrivals | FENDI Debuts the Fall/Winter 2026 My Peekaboo Bag: Behind the Scenes, the True Self Revealed ·",
