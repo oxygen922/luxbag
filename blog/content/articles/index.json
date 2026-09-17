@@ -1,6 +1,28 @@
 {
   "articles": [
     {
+      "id": "l606ntd",
+      "slug": "l606ntd",
+      "title": "· New Bag | Cartier Unveils the All-New Clash de Cartier Handbag Collection: Rotating Stud Clasp ·",
+      "date": "2026-09-17",
+      "cover": "https://cdn.kynbag.com/images/l606ntd/d14956931c0192fc.jpg",
+      "excerpt": "Cartier launches the Clash de Cartier handbag, a minimalist tote inspired by its jewelry line and envelope shape, featuring a rotating stud closure.",
+      "tags": [],
+      "source": "feature"
+    },
+    {
+      "id": "2n7ebw8",
+      "slug": "2n7ebw8",
+      "title": "· New Bag | Balenciaga Debuts the Winter 26 Hourglass Avenue: An Hourglass Silhouette with a Brass Square Buckle ·",
+      "date": "2026-09-16",
+      "cover": "https://cdn.kynbag.com/images/2n7ebw8/2c4fd2565ca63d3d.jpg",
+      "excerpt": "Balenciaga launches the Hourglass Avenue bag this week, blending its signature hourglass shape with vintage doctor-bag style in glossy calfskin.",
+      "tags": [
+        "Balenciaga"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "nws935b",
       "slug": "nws935b",
       "title": "· New Bags · LOEWE Debuts Fall/Winter 2026 Collection: A Collaboration with German Artist Cosima von Bonin ·",
