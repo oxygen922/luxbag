@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "anbupnu",
+      "slug": "anbupnu",
+      "title": "· New Bags | FENDI Unveils Spring/Summer 2027 Runway Collection: Clothes as the Backdrop ·",
+      "date": "2026-09-29",
+      "cover": "https://cdn.kynbag.com/images/anbupnu/ab84596814858f65.jpg",
+      "excerpt": "Fendi's Spring/Summer 2027 Milan show, led by Maria Grazia Chiuri, explores body-clothing intimacy through lingerie-inspired lace, embroidery, and layered silk prints.",
+      "tags": [
+        "FENDI"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "t5mhj4a",
+      "slug": "t5mhj4a",
+      "title": "· New Bags | Prada Unveils Spring/Summer 2027 Womenswear Show: Deconstructed Skirts ·",
+      "date": "2026-09-28",
+      "cover": "https://cdn.kynbag.com/images/t5mhj4a/c0fcf3aded312aab.jpg",
+      "excerpt": "Prada's Spring/Summer 2027 Milan show themed \"The Skirt\" explored creative possibilities with Velcro, crystals, and regenerated nylon.",
+      "tags": [
+        "PRADA"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "cojx4ls",
       "slug": "cojx4ls",
       "title": "· This Week's New Bags | FENDI Studded Baguette, BALENCIAGA Fan Carry All, LV Hotel-Print Nano Speedy, MIU MIU Heather Wood Leather Pouch, LOEWE Artist Collaboration Blown Rigid Clutch ·",
