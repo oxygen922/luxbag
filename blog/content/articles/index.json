@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "sf7kskd",
+      "slug": "sf7kskd",
+      "title": "· New Arrivals | Louis Vuitton Launches Flight Mode Fall/Winter 2026 Collection: Train Travel ·",
+      "date": "2026-10-01",
+      "cover": "https://cdn.kynbag.com/images/sf7kskd/cf4e5781f3b3bafa.jpg",
+      "excerpt": "Louis Vuitton's new Flight Mode collection draws on train travel romance, reimagining Low Key bags in deep red and walnut, and icons in blue and green jacquard canvas.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "9no58zq",
+      "slug": "9no58zq",
+      "title": "· New Bags | Bottega Veneta Presents Spring/Summer 2027 Runway: Featherweight Weaves ·",
+      "date": "2026-09-30",
+      "cover": "https://cdn.kynbag.com/images/9no58zq/0825bec2cc576ea5.jpg",
+      "excerpt": "Bottega Veneta's Spring/Summer 2027 Milan show blends its signature Intrecciato weave with lighter materials like lace and knit.",
+      "tags": [
+        "BOTTEGA VENETA"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "anbupnu",
       "slug": "anbupnu",
       "title": "· New Bags | FENDI Unveils Spring/Summer 2027 Runway Collection: Clothes as the Backdrop ·",
