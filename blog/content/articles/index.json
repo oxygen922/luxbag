@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "eernbe2",
+      "slug": "eernbe2",
+      "title": "New Bags | PRADA Debuts Fall/Winter 2026 Bag Collection: Avoir Mini Handbag and Route Buffalo Leather Tote",
+      "date": "2026-10-09",
+      "cover": "https://cdn.kynbag.com/images/eernbe2/8f5c638e67bdfa90.jpg",
+      "excerpt": "Prada's Fall/Winter 2026 handbags feature the new Avoir top-handle and a utilitarian Route multi-pocket bag in sand-beige leather.",
+      "tags": [
+        "PRADA"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "8z05ilk",
+      "slug": "8z05ilk",
+      "title": "· IN-BAG | Saint Laurent Debuts Winter 2026 Ready-to-Wear Jewelry: Dove Earrings ·",
+      "date": "2026-10-08",
+      "cover": "https://cdn.kynbag.com/images/8z05ilk/1e4acc48df393bd7.jpg",
+      "excerpt": "Saint Laurent's Winter 2026 costume jewelry features dove-shaped earrings with resin teardrops, styled for bold feminine power.",
+      "tags": [
+        "SAINT LAURENT"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "fy9l51o",
       "slug": "fy9l51o",
       "title": "· New Arrivals | Louis Vuitton Debuts Fall 2026 Men's Collection: Wilderness Green Jacquard Canvas ·",
