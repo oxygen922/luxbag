@@ -1,12 +1,34 @@
 {
   "articles": [
     {
+      "id": "mnwxciy",
+      "slug": "mnwxciy",
+      "title": "· In Focus | lululemon Unveils Fall/Winter 2026 Outerwear Collection: Step Outside and Embrace the Energy of Winter ·",
+      "date": "2026-10-17",
+      "cover": "https://cdn.kynbag.com/images/mnwxciy/f6ae04fb9c4c5822.jpg",
+      "excerpt": "Lululemon unveils its Fall/Winter 2026 outerwear collection with a campaign starring Li Yuchun and Lewis Hamilton, promoting all-weather movement and outdoor calm.",
+      "tags": [],
+      "source": "feature"
+    },
+    {
+      "id": "77s25lw",
+      "slug": "77s25lw",
+      "title": "· New Bags | Miu Miu Presents Spring/Summer 2027 Runway Show: Here and Now ·",
+      "date": "2026-10-16",
+      "cover": "https://cdn.kynbag.com/images/77s25lw/918ad05a1021d491.jpg",
+      "excerpt": "Miu Miu’s Spring/Summer 2027 Paris show blended everyday sportswear and vintage pieces with formal tailoring, creating a rebellious dialogue of collision and tension.",
+      "tags": [
+        "Miu Miu"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "wrrwo0c",
       "slug": "wrrwo0c",
-      "title": "新包 | Hermès 发布2027春夏女装秀：空气之形",
+      "title": "· New Bags | Hermès Presents Spring/Summer 2027 Womenswear Show: Shapes of Air ·",
       "date": "2026-10-15",
       "cover": "https://cdn.kynbag.com/images/wrrwo0c/a21b24de000a5def.jpg",
-      "excerpt": "",
+      "excerpt": "Hermès’ Spring/Summer 2027 show in Paris featured Nadège Vanhée’s “The Shape of Air” theme with lightweight knits, leather mesh, and adjustable zippers for fluid, sculptural movement.",
       "tags": [
         "HERMÈS"
       ],
@@ -15,10 +37,10 @@
     {
       "id": "er4tev2",
       "slug": "er4tev2",
-      "title": "新包 | PRADA 上架 Essence 系列手袋和配饰：斑点狗纹，小牛毛皮",
+      "title": "New Arrivals | PRADA Launches the Essence Collection of Bags and Accessories: Dalmatian Spots in Calf Hair",
       "date": "2026-10-14",
       "cover": "https://cdn.kynbag.com/images/er4tev2/1f93271eeff92be3.jpg",
-      "excerpt": "",
+      "excerpt": "Prada expands its Essence collection with calf-hair bags featuring playful black-and-white Dalmatian spots for a plush, charming look.",
       "tags": [
         "PRADA"
       ],
