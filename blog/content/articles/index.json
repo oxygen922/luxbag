@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "15eiks7",
+      "slug": "15eiks7",
+      "title": "· New Bags | Saint Laurent Debuts the 2026 Winter Simone Bag: An Envelope Silhouette ·",
+      "date": "2026-10-21",
+      "cover": "https://cdn.kynbag.com/images/15eiks7/686dcf9d82a7577f.jpg",
+      "excerpt": "Saint Laurent's Winter 2026 Simone handbag features an envelope silhouette inspired by Yves Saint Laurent's personal letters, with a three-dimensional YSL emblem.",
+      "tags": [
+        "SAINT LAURENT"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "47fy356",
+      "slug": "47fy356",
+      "title": "New Bags | Louis Vuitton Presents Spring-Summer 2027 Womenswear Collection: Ergonomics",
+      "date": "2026-10-20",
+      "cover": "https://cdn.kynbag.com/images/47fy356/22906e01e7694056.jpg",
+      "excerpt": "Louis Vuitton’s Spring/Summer 2027 Paris show featured Nicolas Ghesquière’s “Ergonomie” theme, blending lightweight silks into fluid dresses and coats exploring body movement.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "7goszl5",
       "slug": "7goszl5",
       "title": "· New Bags | LOEWE Presents Spring/Summer 2027 Runway Show: A Dialogue Between Old and New Worlds ·",
