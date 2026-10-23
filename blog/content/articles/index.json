@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "rzvvebp",
+      "slug": "rzvvebp",
+      "title": "IN-BAG | Balenciaga Unveils Three New Fragrances in Its «Extraits de Parfum» Line: Gender-Neutral Scents",
+      "date": "2026-10-23",
+      "cover": "https://cdn.kynbag.com/images/rzvvebp/619b3735a8d10497.jpg",
+      "excerpt": "Balenciaga launches Extraits de Parfum, a three-scent collection of vanilla, amber, and oud in coffee-brown bottles inspired by its 1947 Le Dix, with an androgynous appeal.",
+      "tags": [
+        "Balenciaga"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "1ri1az0",
+      "slug": "1ri1az0",
+      "title": "· New Bags | LOEWE Launches Fall/Winter 2026 Shearling Bag Collection: Warm and Cozy ·",
+      "date": "2026-10-22",
+      "cover": "https://cdn.kynbag.com/images/1ri1az0/7e6753c904be6f9a.jpg",
+      "excerpt": "LOEWE's Fall/Winter 2026 bags wrap plush shearling in camel tones with glossy lambskin and silver chain accents for a warm, avant-garde look.",
+      "tags": [
+        "LOEWE"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "15eiks7",
       "slug": "15eiks7",
       "title": "· New Bags | Saint Laurent Debuts the 2026 Winter Simone Bag: An Envelope Silhouette ·",
