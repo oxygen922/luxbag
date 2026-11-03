@@ -1,6 +1,30 @@
 {
   "articles": [
     {
+      "id": "6ge4rqw",
+      "slug": "6ge4rqw",
+      "title": "· New Bags | Louis Vuitton's Iconic Silhouette Gets a Refresh: The Alma Soft ·",
+      "date": "2026-11-03",
+      "cover": "https://cdn.kynbag.com/images/6ge4rqw/bee78e91c47e6cf6.jpg",
+      "excerpt": "Louis Vuitton refreshes its Fall/Winter 2026 handbags, softening the Alma and OnTheGo and adding a detachable strap to the Pochette Métis.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "1h63v0s",
+      "slug": "1h63v0s",
+      "title": "· New Arrivals | Bottega Veneta Debuts Winter 2026 Collection: A Milan Encounter ·",
+      "date": "2026-11-02",
+      "cover": "https://cdn.kynbag.com/images/1h63v0s/c502f1cf9767c739.jpg",
+      "excerpt": "Bottega Veneta’s Winter 2026 bags draw on elegantly dressed Milanese, featuring book, newspaper and suitcase shapes with sequins, marble and shearling.",
+      "tags": [
+        "BOTTEGA VENETA"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "zns1nqt",
       "slug": "zns1nqt",
       "title": "· New This Week: MIU MIU's Ruby-Red Vivant Mini Bag & Croc-Embossed Arcadie Tote, YSL's Simone Large Envelope Bag, and BALENCIAGA's Pink Hourglass Avenue ·",
