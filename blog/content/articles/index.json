@@ -1,6 +1,42 @@
 {
   "articles": [
     {
+      "id": "kca15kk",
+      "slug": "kca15kk",
+      "title": "· New Bags | Saint Laurent Debuts Winter 2026 Handbag Collection: Cozy Shearling ·",
+      "date": "2026-11-05",
+      "cover": "https://cdn.kynbag.com/images/kca15kk/c41c5f8ec50053a8.jpg",
+      "excerpt": "Saint Laurent’s Winter 2026 bags feature plush shearling on the Icare tote, Jamie shopper, and Niki shoulder bag, blending languid allure with rebellion.",
+      "tags": [
+        "SAINT LAURENT"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "6ric9cl",
+      "slug": "6ric9cl",
+      "title": "· In Focus | Louis Vuitton Unveils New Multipass Campaign: A Paris Wanderer's Diary ·",
+      "date": "2026-11-04",
+      "cover": "https://cdn.kynbag.com/images/6ric9cl/0d8823ecc00801fd.jpg",
+      "excerpt": "Louis Vuitton's new Multipass bag campaign follows Lu Yuxiao, Ange Poussaay and Yigenanaya wandering Paris, showcasing modern travel style.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "crlarzq",
+      "slug": "crlarzq",
+      "title": "Louis Vuitton Petite Malle Capitale in Aged Gold",
+      "date": "2026-11-04",
+      "cover": "https://cdn.kynbag.com/images/crlarzq/12ec3fd4c0173abd.jpg",
+      "excerpt": "The Petite Malle Capitale trunk blends medieval armor inspiration with opulent details like an antiqued metallic finish, gold clasp, and black leather trim.",
+      "tags": [
+        "Louis Vuitton"
+      ],
+      "source": "today"
+    },
+    {
       "id": "6ge4rqw",
       "slug": "6ge4rqw",
       "title": "· New Bags | Louis Vuitton's Iconic Silhouette Gets a Refresh: The Alma Soft ·",
