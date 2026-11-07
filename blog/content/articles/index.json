@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "5hfo2n3",
+      "slug": "5hfo2n3",
+      "title": "· This Week's New Bags: PRADA Cleo East-West, BALENCIAGA Knit Le City ·",
+      "date": "2026-11-07",
+      "cover": "https://cdn.kynbag.com/images/5hfo2n3/22e7d08434712309.jpg",
+      "excerpt": "Prada reissues its Cleo bag in a modern horizontal silhouette, available in playful spotted calf hair or sleek white Spazzolato leather.",
+      "tags": [
+        "PRADA",
+        "Balenciaga"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "nr2xoe9",
+      "slug": "nr2xoe9",
+      "title": "New Bag | FENDI Launches the New Baguette Urban Men's Bag: Interlocking Lock Structure, Fabric Details",
+      "date": "2026-11-06",
+      "cover": "https://cdn.kynbag.com/images/nr2xoe9/0c0796da6244ada2.jpg",
+      "excerpt": "FENDI's 2027 Resort Baguette Urban blends the men's crossbody with the elongated Baguette, featuring a webbing insert-lock FF buckle and wide fabric strap for everyday versatility.",
+      "tags": [
+        "FENDI"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "kca15kk",
       "slug": "kca15kk",
       "title": "· New Bags | Saint Laurent Debuts Winter 2026 Handbag Collection: Cozy Shearling ·",
