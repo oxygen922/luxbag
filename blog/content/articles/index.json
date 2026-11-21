@@ -1,6 +1,31 @@
 {
   "articles": [
     {
+      "id": "hnxf1i9",
+      "slug": "hnxf1i9",
+      "title": "· This Week's New Bags · LOEWE Holiday Lights Bucket Bag & Clutch, LV Purple Papillon Trunk Cylinder Case & Trompe-L'œil Keepall Travel Bag",
+      "date": "2026-11-21",
+      "cover": "https://cdn.kynbag.com/images/hnxf1i9/55713b113c3272f7.jpg",
+      "excerpt": "Loewe launches two Christmas-themed bags with colored light-bulb details: a woven Garland bucket bag and a beaded Flamenco clutch.",
+      "tags": [
+        "LV",
+        "LOEWE"
+      ],
+      "source": "feature"
+    },
+    {
+      "id": "jbyw2ph",
+      "slug": "jbyw2ph",
+      "title": "· In View | Hermès Unveils the 2026 Winter Windows and Holiday Light Installation at Maison Hermès Shanghai: Rising Toward the Void ·",
+      "date": "2026-11-20",
+      "cover": "https://cdn.kynbag.com/images/jbyw2ph/88e6a0ca43241edb.jpg",
+      "excerpt": "Hermès Shanghai unveiled its 2026 winter windows, \"Growing Into Air,\" featuring Hungarian artist Zsófia Keresztes's glass mosaic sculptures inspired by nature's growth.",
+      "tags": [
+        "HERMÈS"
+      ],
+      "source": "feature"
+    },
+    {
       "id": "lsajmq1",
       "slug": "lsajmq1",
       "title": "· New Arrivals | Celine Launches \"Games\" Collection of Bags and Accessories, Inspired by Chess and Playing Cards ·",
